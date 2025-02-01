@@ -26,7 +26,7 @@ We will actively develop and contribute to open-source AI projects across variou
 ## 🌍 Get Involved  
 Crosssense Lab is open to AI enthusiasts, researchers, engineers, and anyone passionate about shaping the future of artificial intelligence. Join us in our mission to make AI more accessible, ethical, and impactful.  
 
-🔹 Follow our work on GitHub: [github.com/CrosssenseLab](https://github.com/Crosssense-Lab)  
+🔹 Follow our work on GitHub: [github.com/Crosssense-Lab](https://github.com/Crosssense-Lab)  
 🔹 Contribute to our projects and discussions  
 🔹 Stay updated through our blog and research publications (coming soon!)  
 
